@@ -5,13 +5,20 @@
 import math
 
 # create valid grid and pieces
-calendarGrid = []
+calendarGrid =  [],
+
 piece1 = []
+
 piece2 = []
+
 piece3 = []
+
 piece4 = []
+
 piece5 = []
+
 piece6 = []
+
 piece7 = []
 
 # ask for date input

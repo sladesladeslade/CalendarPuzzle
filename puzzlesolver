@@ -1,0 +1,27 @@
+# Calendar Puzzle Solver
+# set solver/set pieces
+# terminal graphics version
+
+import math
+
+# create valid grid and pieces
+calendarGrid = []
+piece1 = []
+piece2 = []
+piece3 = []
+piece4 = []
+piece5 = []
+piece6 = []
+piece7 = []
+
+# ask for date input
+
+
+
+
+# attempt to solve
+
+
+
+
+# display solution
